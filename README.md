@@ -8,12 +8,19 @@ Welcome to the Daily Java Program Repository! This repository is dedicated to pr
 Each day, a new Java program will be added to this repository, covering a variety of topics including but not limited to:
 
 1.Basic syntax and language fundamentals
+
 2.Object-oriented programming concepts
+
 3.Data structures and algorithms
+
 4.GUI development with JavaFX or Swing
+
 5.File handling and I/O operations
+
 6.Multithreading and concurrency
+
 7.Networking and socket programming
+
 8.Database connectivity with JDBC
 
 
