@@ -1,5 +1,16 @@
 class StarPattern5
 {
+
+	/*
+	
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+	
+	*/
+	
 	public static void main(String args[])
 	{
 		for (int column =5;column>=1  ;column-- )
