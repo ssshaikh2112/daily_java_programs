@@ -9,6 +9,7 @@ class StaticMethod1
 	{
 		System.out.println("Welcome... First enter in the main...");
 		method1();
+		//StaticMethod1.method1		-- applicable
 		System.out.println("Return from method1...");
 	}
 }
