@@ -6,6 +6,6 @@ class Addition
 		int number2=10;
 		int result;
 		result=number1+number2;
-		System.out.println(result);
+		System.out.println("The result is : "+result);
 	}
 }
