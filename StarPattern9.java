@@ -18,6 +18,7 @@ class StarPattern9
 
 	public static void main(String[] args)
 	{
+		
 		for (int column=1;column<=5 ;column++ )
 		{
 			for (int space =4;space>=column ;space--)
