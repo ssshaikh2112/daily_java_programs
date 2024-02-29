@@ -34,6 +34,7 @@ class StarPattern9
 
 		for (int column=4;column>=1;column--)
 		{
+			
 			for (int space=4;space>=column;space-- )
 			{
 				System.out.print(" ");
