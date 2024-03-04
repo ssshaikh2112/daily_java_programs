@@ -8,7 +8,6 @@ class NumFromOneToFiveForLoop
 
 		for(int i=1; i<=range; i++)
 		{
-		
 			System.out.println(i);
 		}
 	}
