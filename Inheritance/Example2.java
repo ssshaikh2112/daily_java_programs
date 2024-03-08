@@ -1,3 +1,4 @@
+//Single Level Inheritance
 // Bussiness Logic
 class A
 {
