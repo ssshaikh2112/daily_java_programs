@@ -1,9 +1,12 @@
+// parent / super / base 
 class Nonvariables
 {
 	int number1 = 10;
 	float number2 = 20.5f;
 
 }
+
+// child / sub / derived
 class NonvariablesAndMethod extends Nonvariables
 {
 	int number1 = 100;
