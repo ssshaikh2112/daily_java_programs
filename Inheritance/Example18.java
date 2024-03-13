@@ -6,6 +6,7 @@ class Demo1
 		// Argument object send control to argument constructor 
 		// 0 Argument object send control to 0 argument constructor 
 		System.out.println("It is the 0 Constructor of Demo1 -- Demo1");
+		
 	}
 }
 class Test1 extends Demo1
