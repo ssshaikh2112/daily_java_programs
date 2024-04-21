@@ -1,0 +1,28 @@
+It envolve collection of classes and interfaces. To read and write from a particular file.
+
+source.txt --> Program --> Destination.txt
+
+Channel: Channel is a mediam for data transfer / flow. Every channel will perform read and write operation.
+
+Stream: Stream can be defined as sequence of data. There are 2 types of Stream Channel
+ie.
+	(1)	byteOrientedStream Channel
+	(2)	characterOrientedStream Channel
+
+(1)byteOrientedStream Channel
+
+To perform read and write operation with the help of byteOrientedStream channel.
+It is possible ny creating objrcts.
+
+Hence java supports 2 classes.
+
+	i)	Input Stream
+	ii)	Output Stream
+
+The child classes have file Input as well output stream.
+
+Both classes are regular or normal classes hence we are able to create an object.
+
+For read operation we need to create object of fileInputStream and for write operation we need to create an object of fileOutputStream.
+
+NOTE : It is mandatory to create source file. But not to mandatory create destination file. If we don't create destination file java will automatically create it.
