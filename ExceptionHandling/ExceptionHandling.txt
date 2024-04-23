@@ -1,0 +1,4 @@
+Exceptions : Whenever they are raised it will lead to an abnormal termination
+and remaining statements will not get executed hence to overcome this we need to
+handle the exception.
+
