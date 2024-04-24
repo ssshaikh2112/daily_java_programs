@@ -1,0 +1,3 @@
+An Exception can be defined as during the compilation or execution 
+there will be an occurance of an unexpected events this behavior is called as Exception.
+
