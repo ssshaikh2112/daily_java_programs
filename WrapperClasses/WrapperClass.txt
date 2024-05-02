@@ -1,0 +1,7 @@
+The main purpose of wrapper class is to convert primitive data to object type.
+
+What is need for wrpper class or why do we use wrapper class?
+Ans: All primitive data by nature are not secure so to apply a level of security we need to wrap the data.
+
+Auto typecating:
+	The integer wrapper class will convert primitive data or string data in the format of wrapper object such process is called type casting and as it is internally taken care by java it is called auto typecating.
