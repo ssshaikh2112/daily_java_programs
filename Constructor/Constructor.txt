@@ -1,0 +1,6 @@
+Constructor is a like a special methods they are mean to perform operations , they accept arguments but do not have return type.
+
+Rule:
+1.	Constructor name should be same as class name.
+2.	Constructor can accept arguments.
+3.	Constructor do not have arguments.
