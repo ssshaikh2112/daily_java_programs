@@ -1,0 +1,7 @@
+To read Information from various sources like keyboard , file , stream or any other source. We go for Scanner Class.
+It provide Functionality to read numeric values , string values or any other data.
+Scanner class read the any information in the form of tokens.
+Scanner class is part of java.Util package.
+
+TOKEN : It is smallest element / informstion or data within a string or within any information is called TOKEN.
+
