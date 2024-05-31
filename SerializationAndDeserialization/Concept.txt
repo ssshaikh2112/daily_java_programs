@@ -1,0 +1,5 @@
+Serialization is the process to transfer the data from one where to another is called Serialization.
+
+The process converting java object into input stream format is called Serialization.
+
+The process reading the object from Network supported format is called Deserialization
