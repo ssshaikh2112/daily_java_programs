@@ -19,9 +19,7 @@ Each day, a new Java program will be added to this repository, covering a variet
 
 6.Multithreading and concurrency
 
-7.Networking and socket programming
-
-8.Database connectivity with JDBC
+7.Database connectivity with JDBC
 
 
 Feel free to explore the programs, study the code, and contribute your own solutions or improvements. Whether you're solving a programming puzzle, implementing a useful utility, or experimenting with a new Java feature, your contributions are highly encouraged.
