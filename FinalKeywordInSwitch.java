@@ -8,6 +8,7 @@ class FinalKeywordInSwitch
 
 
 		
+		
 		switch(a)
 		{
 			case x:
