@@ -15,6 +15,8 @@ class DefaultValueOfVar
 	public static void main(String args[])
 	{
 
+
+		
 		
 		System.out.println("The Default value of int is : "+variableOne);			// 0
 		System.out.println("The Default value of char is : "+variableTwo);			// blank ( )
