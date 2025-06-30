@@ -7,9 +7,6 @@ class AgeCheckUsingIfElseIf
 
 		if(age>=21)
 		{
-
-
-			
 			
 			System.out.println("Age is Matching...");
 			if(gender=='M' || gender=='F')
