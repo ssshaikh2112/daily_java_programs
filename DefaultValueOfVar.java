@@ -4,6 +4,9 @@ class DefaultValueOfVar
 	// Static variables are print the default values after run These are below.
 
 
+
+
+	
 	static int variableOne;
 	static char variableTwo;
 	static byte variableThree;
