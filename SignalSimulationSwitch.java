@@ -2,6 +2,8 @@ class SignalSimulationSwitch
 {
 	public static void main(String args[])
 	{
+
+		
 		char signal='r';
 
 		switch(signal)
