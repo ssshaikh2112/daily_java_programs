@@ -1,8 +1,6 @@
 class FinalKeywordInSwitch
 {
 
-
-
 	
 
 	public static void main(String args[])
