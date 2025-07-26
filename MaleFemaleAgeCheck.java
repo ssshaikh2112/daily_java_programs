@@ -13,8 +13,6 @@ class MaleFemaleAgeCheck
 		}
 		else
 		{
-			
-			
 			System.out.println("Not Eligible for marrage...");
 		}
 
