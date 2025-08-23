@@ -3,14 +3,6 @@ class ForloopCheck
 
 	public static void main(String args[])
 	{
-
-
-
-
-
-	
-		
-
 		int variable = 5;
 		
 		System.out.println(variable);		// print original value	[5]
@@ -21,5 +13,6 @@ class ForloopCheck
 
 	}
 }
+
 
 
