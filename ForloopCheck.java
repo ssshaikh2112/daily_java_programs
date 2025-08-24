@@ -4,6 +4,8 @@ class ForloopCheck
 	public static void main(String args[])
 	{
 		int variable = 5;
+
+
 		
 		System.out.println(variable);		// print original value	[5]
 		System.out.println(++variable);		// in pre-Increment , it increment value first and print incremented value	[6]
@@ -13,6 +15,7 @@ class ForloopCheck
 
 	}
 }
+
 
 
 
