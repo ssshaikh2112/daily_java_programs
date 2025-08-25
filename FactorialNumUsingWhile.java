@@ -7,9 +7,13 @@ class FactorialNumUsingWhile
 		while(number<=8)
 		{
 
+
+
+			
 			factorial=factorial*number;
 			number++;
 		}
 			System.out.println(factorial);
 	}
+
 }
