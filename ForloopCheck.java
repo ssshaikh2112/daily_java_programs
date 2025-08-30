@@ -12,13 +12,10 @@ class ForloopCheck
 
 
 
-
-
-
-
 		
 	}
 }
+
 
 
 
