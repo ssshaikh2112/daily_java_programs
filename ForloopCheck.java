@@ -9,12 +9,9 @@ class ForloopCheck
 		System.out.println(variable);		// print upcoming value [6]
 		System.out.println(variable++);		// first of all print the previous value and in next statement it print incremented value	[6]
 		System.out.println(variable);		// Print Incremented value	[7]
-
-
-
-		
 	}
 }
+
 
 
 
