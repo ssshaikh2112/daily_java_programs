@@ -7,7 +7,6 @@ class FinalKeywordInSwitch
 
 
 
-
 		
 		int a=2;
 		final int x=1 , y=2 , z=3;
