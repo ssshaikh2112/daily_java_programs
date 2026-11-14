@@ -9,7 +9,7 @@ class FactorialNumUsingWhile
 
 
 
-			
+		
 			factorial=factorial*number;
 			number++;
 		}
