@@ -6,7 +6,7 @@ class ContinueStatement
 
 		for(int i=1; i<=5; i++)
 		{
-			if(i==3) 
+			if(i==3)
 		
 			{ 
 				System.out.println("The value of i is : "+i);	// print the value of i = 3
